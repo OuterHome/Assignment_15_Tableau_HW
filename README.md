@@ -1,5 +1,13 @@
 # Tableau Assignment - Citi Bike Analytics
 
+DATA I USED: "201801-citibike-tripdata.csv" https://s3.amazonaws.com/tripdata/201801-citibike-tripdata.csv.zip
+
+"201901-citibike-tripdata.csv" https://s3.amazonaws.com/tripdata/201901-citibike-tripdata.csv.zip
+
+Data I created using Pandas: merged_citibike.csv
+
+These files were too big to upload to github... so we'll use links!
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
